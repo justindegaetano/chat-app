@@ -12,10 +12,6 @@ A Chat App for mobile devices using React Native. The app will provide users wit
 - Google Firebase
 - Google Firestore
 
-### My Role
-
-Full-stack Web developer
-
 ### User Stories
 
 - As a new user, I want to be able to easily enter a chat room so I can quickly start talking to my friends and family
@@ -28,9 +24,7 @@ Full-stack Web developer
 
 ### Key Features
 
--A page where users can enter their name and choose a background color for the chat screen
-before joining the chat.
-
+- A page where users can enter their name and choose a background color for the chat screen before joining the chat.
 - A page displaying the conversation, as well as an input field and submit button.
 - The chat must provide users with two additional communication features: sending images
   and location data.
